@@ -2,7 +2,7 @@ const fs = require("fs");
 const data = require("./data.json");
 var parse = {};
 
-const YEAR = '110', SEMESTER = '10';
+const YEAR = '110', SEMESTER = '20';
 
 function getTeacher(raw) {
     var re = "";
