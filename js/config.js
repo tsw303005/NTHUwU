@@ -26,8 +26,6 @@ const COURSE_TYPE = ['選修', '必修', '通識'];
 const BERIEF_CODE = [];
 const FIND_COURSE_RESULT_LIMIT = 75;
 
-const YEAR = '111', SEMESTER = '10';
-
 const APP_URL = `${location.protocol}//${location.host}${location.pathname}`;
 const YS = YEAR + SEMESTER;
 const DEV = location.hostname === '127.0.0.1';
