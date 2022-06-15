@@ -1,0 +1,1 @@
+const YEAR = '111', SEMESTER = '10';
